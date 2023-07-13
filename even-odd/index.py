@@ -1,4 +1,6 @@
-elif number == 1:
+number = int(input('What is the number: '))
+
+if number == 1:
 	print("1 == even")
 elif number == 2:
 	print("2 == even")
